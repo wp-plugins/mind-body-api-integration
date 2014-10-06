@@ -3,7 +3,7 @@ Contributors: vimes1984
 Tags: wordpress, mindbody, plugin
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,8 +13,19 @@ Mind body API integration
 
 THIS PLUGIN IS INTENTED FOR DEVELOPERS ONLY.
 ALL ISSUES TO BE TRACKED VIA GITHUB
-
 https://github.com/vimes1984/mindbody-api-wordpress
+
+
+You will need at the very least Types: 
+
+https://wordpress.org/plugins/types/
+
+( with a few custom fields, see the plugin files for more info...)
+
+
+And Woocomerce: 
+https://wordpress.org/plugins/woocommerce/
+
 
 Mind body API integration, this is a mind body api intergation kit for wordpress.
 it's intention is to try and import the mindbody api lesson's, classes and staff over to wordpress/woocommerce.
