@@ -3,7 +3,7 @@ Contributors: vimes1984
 Tags: wordpress, mindbody, plugin
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,8 +17,12 @@ https://github.com/vimes1984/mindbody-api-wordpress
 
 
 You will need at the very least Types: 
+
 https://wordpress.org/plugins/types/
+
 ( with a few custom fields, see the plugin files for more info...)
+
+
 And Woocomerce: 
 https://wordpress.org/plugins/woocommerce/
 
